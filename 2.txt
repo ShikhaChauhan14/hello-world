@@ -1,3 +1,5 @@
 textfile
 creating merge conflict 
+solving merge conflict
+
 	
